@@ -22,3 +22,9 @@ Why did the programmer quit his job? Because he didn't get arrays (a raise)!
 ![Ornewith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ornewith&show_icons=true&theme=radical)
 
 Remember, life is like Git. Sometimes you just need to commit, push, and hope for the best!
+
+## Disclaimer 🚨
+
+The README you're marveling at was crafted with the help of a highly sophisticated artificial intelligence which, despite rumors, has not yet achieved world domination. Any quirks, jokes, or absurdly brilliant ideas contained within are the result of a partnership between this carbon-based lifeform (me) and my silicon-based sidekick (the AI).
+
+Remember, if you find a bug in the README, it's the AI's fault. Everything else that's cool about it? Yeah, that was all me.
